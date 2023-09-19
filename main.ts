@@ -2,7 +2,7 @@
  *
  * Created by: Ihor Chernyshev
  * Created on: Sep 2023
- * This program alculates the area and perimeter of a rectangle with dimensions 5 cm & 3 cm
+ * This program calculates the area and perimeter of a rectangle with dimensions 5 cm & 3 cm
 */
 
 basic.clearScreen()
