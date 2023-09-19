@@ -1,3 +1,4 @@
+
 # TEJ2O ⇢ Unit #2-03
 
 [![Mr Coxall's Super Linter](https://github.com/MTHS-TEJ2O-1-2023/<TEJ2O-Unit-2-03-ihor-chernyshev>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-TEJ2O-1-2023/<TEJ2O-Unit-2-03-ihor-chernyshev>/actions)
@@ -8,7 +9,7 @@
 
 Run the following command in the terminal, where your *.py file is located:
 
-``` console
+```console
 black --check --diff ./*.py
 ```
 
@@ -16,6 +17,6 @@ black --check --diff ./*.py
 
 Run the following command in the terminal, where your *.py file is located:
 
-``` bash
+```bash
 py2hex ./main.py
 ```
