@@ -11,7 +11,10 @@ from time import sleep
 display.clear()
 sleep(1)
 
-display.scroll("Perimeter = " + str(2 * 5 + 2 * 3))
+display.scroll("A rectangle has dimensions 5 cm & 3 cm.")
 display.clear()
 sleep(1)
-display.scroll("Area = " + str(5 * 3))
+display.scroll("The perimeter would be: " + str(2 * (5 + 3)))
+display.clear()
+sleep(1)
+display.scroll("The area would be: " + str(5 * 3))
