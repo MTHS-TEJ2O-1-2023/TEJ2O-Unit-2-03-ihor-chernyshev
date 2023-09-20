@@ -15,6 +15,6 @@ black --check --diff ./*.py
 
 Run the following command in the terminal, where your *.py file is located:
 
-``` bash
+```bash
 py2hex ./main.py
 ```
