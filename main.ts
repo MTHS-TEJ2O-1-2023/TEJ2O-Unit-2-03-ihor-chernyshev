@@ -8,7 +8,7 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString('Perimeter = ' + ( 2 * 5 + 2 * 3 ).toString())
+basic.showString('Perimeter = ' + (2 * (5 + 3)).toString())
 basic.clearScreen()
 basic.pause(1000)
 basic.showString('Area = ' + (5 * 3).toString())
